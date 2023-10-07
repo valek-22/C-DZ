@@ -1,0 +1,15 @@
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\bin\Debug\net6.0\DZ_1.exe
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\bin\Debug\net6.0\DZ_1.deps.json
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\bin\Debug\net6.0\DZ_1.runtimeconfig.json
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\bin\Debug\net6.0\DZ_1.dll
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\bin\Debug\net6.0\DZ_1.pdb
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.csproj.AssemblyReference.cache
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.AssemblyInfoInputs.cache
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.AssemblyInfo.cs
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.csproj.CoreCompileInputs.cache
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.dll
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\refint\DZ_1.dll
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.pdb
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\DZ_1.genruntimeconfig.cache
+D:\Разработка ПО\Репозиторий\C-DZ\DZ_1\obj\Debug\net6.0\ref\DZ_1.dll
